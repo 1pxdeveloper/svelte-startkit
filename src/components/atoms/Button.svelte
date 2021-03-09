@@ -1,0 +1,1 @@
+<button class="bg(#fff) w(200) pack b(#ccc) p(5)">버튼</button>

@@ -1,0 +1,16 @@
+.b\(\#ccc\){border: 1px solid #ccc;}
+.bg\(\#fff\){background: #fff;}
+.block{display:block; width:100%;}
+.br\(\#ccc\){border-right: 1px solid #ccc;}
+.clip{overflow: hidden;}
+.flex{flex:1;}
+.font\(11\){font-size: 11px;}
+.nowrap{white-space: nowrap;}
+.p\(5\){padding: 5px;}
+.p\(8\){padding: 8px;}
+.pack{display:flex; flex-flow: inherit; align-items:center; justify-content:center;}
+.scroll-y{overflow-y: scroll;}
+.selected.\.selected\:bg\(\#000\),.selected .\.selected\:bg\(\#000\) { background: #000; }
+.selected.\.selected\:c\(\#fff\),.selected .\.selected\:c\(\#fff\) { color: #fff; }
+.w\(200\){width: 200px;}
+.w\(80\){width: 80px;}
